@@ -33,6 +33,10 @@ To use this tool correctly, install and prepare the following:
 ### AHK Script
 The `cs2_benchmark.ahk` script works "out of the box." It automatically fetches your Steam installation path from the Windows Registry, so no manual path editing is required.
 
+**You can find the script here:**
+* [View Source on GitHub](https://github.com/9Erza/CS2-consistent-benchmarking-tool/blob/main/cs2_benchmark.ahk)
+* [Download Raw Script](https://raw.githubusercontent.com/9Erza/CS2-consistent-benchmarking-tool/refs/heads/main/cs2_benchmark.ahk)
+
 ## 🚀 Usage
 
 1. Ensure Steam is running.
